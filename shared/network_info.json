@@ -1,0 +1,18 @@
+{
+    "chain_id": "hyperpax_125-1",
+    "evm_chain_id": 125,
+    "validator1": {
+        "address": "pax1sjnhf7wctsed00h0rkpnqgap7s0ax02uf7n7dt",
+        "node_id": "aec3dc2ec5bc59c479160280309ab694cf3f62b3",
+        "p2p": "validator1:26656",
+        "rpc": "http://localhost:26657",
+        "evm_rpc": "http://localhost:8545"
+    },
+    "validator2": {
+        "address": "pax15lhvurds05e7gw5tz24glrxdqth3rx6t9ekpk6",
+        "node_id": "5319ea00a313b4dd580ff2e8a09a599b66639c57",
+        "p2p": "validator2:26656",
+        "rpc": "http://localhost:26667",
+        "evm_rpc": "http://localhost:8555"
+    }
+}
