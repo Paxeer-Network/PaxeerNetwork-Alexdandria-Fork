@@ -86,7 +86,7 @@ For more information about Paxeer and HyperPaxeer Network, see [PaxeerChainInfo.
 
 ## Community
 
-- Website: [hyperpaxeer.com](https://hyperpaxeer.com)
+- Website: [paxeer.app](https://paxeer.app)
 - Block Explorer: [paxscan.paxeer.app](https://paxscan.paxeer.app)
 
 ## Licensing
