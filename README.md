@@ -3,18 +3,17 @@ parent:
   order: false
 -->
 
-<div align="center">
-  <h1> HyperPaxeer Network </h1>
-</div>
+<p align="center">
+  <img src="https://pn0ramvpx364khyf.public.blob.vercel-storage.com/github.png" alt="Paxeer Network" width="1200">
+</p>
 
-<div align="center">
-  <a href="https://github.com/paxeer/hyperpaxeer/releases/latest">
-    <img alt="Version" src="https://img.shields.io/github/tag/paxeer/hyperpaxeer.svg" />
-  </a>
-  <a href="https://github.com/paxeer/hyperpaxeer/blob/main/LICENSE">
-    <img alt="License" src="https://img.shields.io/github/license/paxeer/hyperpaxeer.svg" />
-  </a>
-</div>
+
+
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/paxeer/paxeer)
+[![Go Version](https://img.shields.io/badge/go-1.23+-blue)](https://golang.org)
+[![License](https://img.shields.io/badge/license-ENCL%20v1-green)](LICENSE)
+[![Chain ID](https://img.shields.io/badge/mainnet-125-blue)](https://paxeer.app)
+[![Chain ID](https://img.shields.io/badge/testnet-80000-orange)](https://testnet.paxeer.network)
 
 ## About
 
