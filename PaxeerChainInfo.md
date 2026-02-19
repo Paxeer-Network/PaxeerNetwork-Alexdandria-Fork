@@ -11,13 +11,6 @@ From prop firm to protocol
 
 ChainFlow V2 is no longer a discrete “prop trading firm”. It is a protocol surface inside Paxeer where the network provides the capital and users interact through funded smart wallets, without auditions, upfront fees, or opaque allocation rules.
 
-## Account surface
-Protocol-funded smart wallets
-Instead of provisioning monolithic “prop accounts”, Paxeer issues ChainFlow smart wallets to users. These are programmatic accounts whose initial and ongoing funding is derived from the network's capital pool, not a single institution. Each wallet is treated as a first-class capital conduit, able to: deploy applications, trade on any on-chain protocol, provide liquidity, or hold portfolio allocations.
-
-All interactions are settled transparently on Paxeer and OpenNet, with the smart wallet acting as a programmable perimeter around user behavior. This creates a clear separation between who controls actions (the user or agent) and who supplies capital (the protocol and its funding pools).
-
-## View OpenNet & Paxeer activity on explorer →
 Community balance sheet
 Network-level funding pools
 Capital originates from community funding pools denominated in ETH and OP, economically backed by approximately 1.5B USD worth of collateralized, staked PAX coins. Rather than assigning static balances, the protocol continuously routes this capital across users, strategies, and risk buckets, ensuring that size is allocated where risk-adjusted utility is highest.
