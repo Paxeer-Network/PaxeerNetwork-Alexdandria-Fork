@@ -1,0 +1,21 @@
+{
+  "metadata": [
+    {
+      "description": 1,
+      "denom_units": [
+        {
+          "denom": "ahpx",
+          "exponent": 0
+        },
+        {
+          "denom": "paxeer",
+          "exponent": 18
+        }
+      ],
+      "base": "ahpx",
+      "display": "ahpx",
+      "name": "ahpx",
+      "symbol": "PAXEER"
+    }
+  ]
+}
