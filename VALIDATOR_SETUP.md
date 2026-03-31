@@ -52,7 +52,7 @@ go version
 
 ```bash
 # Clone the repository
-git clone https://github.com/paxeer/hyperpaxeer.git
+git clone https://github.com/Paxeer-Network/hyperpaxeer-os.git
 cd hyperpaxeer
 
 # Build and install
